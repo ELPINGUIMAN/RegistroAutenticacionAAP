@@ -161,8 +161,8 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.finalboss.endless
-    Standalone: com.DefaultCompany.EndlessSpacePilot
+    Android: com.DefaultCompany.RegistroAutenticacionAAP
+    Standalone: com.DefaultCompany.Registro-AutenticacionAAP
     Tizen: com.finalboss.endless
     iPhone: com.finalboss.endless
     tvOS: com.finalboss.endless
@@ -712,7 +712,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 1
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 0
   webGLThreadsSupport: 0
